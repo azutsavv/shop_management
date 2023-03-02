@@ -10,6 +10,7 @@ class home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.amber
+      
       ,
       body: Container(),
     );
